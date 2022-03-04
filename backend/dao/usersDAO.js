@@ -13,6 +13,8 @@ export default class UsersDAO {
             )
         }
     }
+    
+    // add more methods (get, set, etc)
+
 }
 
-// add more methods (get, set, etc)
